@@ -15,8 +15,8 @@ class App extends Component {
     this.state = {
       data: [
         {
-          label: "Going to lear React",
-          important: true,
+          label: "Going to learn React",
+          important: false,
           like: false,
           id: nextId(),
         },
